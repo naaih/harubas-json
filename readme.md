@@ -1,2 +1,2 @@
 
-maldivian proverbs and it meaning in json format - ހަރުބާ ހަރުބަހުގެ މާނަ
+maldivian proverbs and its meaning in json format - ހަރުބާ ހަރުބަހުގެ މާނަ
